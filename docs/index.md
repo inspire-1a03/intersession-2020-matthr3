@@ -1,4 +1,4 @@
-# # Ryan's First GitHub
+# Ryan's First GitHub
 # Ryan Matthews - 400120481
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
@@ -24,7 +24,7 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
-![Markdown logo](images/markdown.png "This is the Markdown logo!")
+![Ryan's Arduino Day 1](https://github.com/inspire-1a03/intersession-2020-matthr3/blob/master/docs/images/FIrstday.png "Ryan Matthews First Circuit!")
 
 ## Day 2: Results
 <!--
