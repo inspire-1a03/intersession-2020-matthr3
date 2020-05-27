@@ -31,6 +31,7 @@ Replace the elements below to insert your picture.
 Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
 
 /* Adafruit Arduino - Lesson 3. RGB LED */ 
+
 int redPin = 11;
 int greenPin = 10;
 int bluePin = 9;
