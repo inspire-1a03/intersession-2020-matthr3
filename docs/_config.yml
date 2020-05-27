@@ -8,3 +8,5 @@ include:
 
 title: edit your title in /docs/_config.yml
 description: edit your description in /docs/_config.yml
+
+theme: jekyll-theme-slate
