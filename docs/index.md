@@ -199,7 +199,7 @@ You can find more information at these links:
 -->
 | Feature | Description | Other Notes |
 |---------|-------------|-------------|
-|- RGB LED Thermometer  |-  Using the thermistor that was utilized in our day two exercise,  implemented this into the assignment for day 3. Which is used to measure the variance in air temperature with the input of the thermistor and outputting the temperature onto the serial monitor in Arduino. Depending on the temperature, the RGB LED light will then correspond to the colour that it was told to within the code, this can be seen in " if (temp > 25) { setColor(0, 255, 0);  // green }". Thus, if the temperature is above 25 degrees celcius the RGB LED light will become green.|             |
+|- RGB LED Thermometer  |-  Using the thermistor that was utilized in our day two exercise,  implemented this into the assignment for day 3. Which is used to measure the variance in air temperature with the input of the thermistor and outputting the temperature onto the serial monitor in Arduino. Depending on the temperature, the RGB LED light will then correspond to the colour that it was told to within the code, this can be seen in " if (temp > 25) { setColor(0, 255, 0);  // green }". Thus, if the temperature is above 25 degrees celcius the RGB LED light will become green.|In everyday life this tool could be used to detect the temperature of the room. The limitations to it are that it must be connected to a computer to tell you the accurate temperature whereas a thermometer could do that much easier (but not as cool).             |
 |         |             |             |
 |         |             |             |
 |         |             |             |
