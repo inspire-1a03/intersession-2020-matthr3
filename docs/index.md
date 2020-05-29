@@ -11,7 +11,8 @@ Note that comments (such as this) will not appear in the final markdown document
 <!--
 In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 
-### I had a great first day in my Electronics for the Rest of Us module, in which I got to learn how to utilize basic functions Arduino and GitHub through the exercises through the YouTube videos posted on the Inspire 1A03 webpage. I was interested in this module because I have not taken an electronics or computer science type course since grade 11. Although I found these courses quite fascinating in the underlining codes and functions that were necessary to run programs and other electronics, for whatever reason I never really continued to pursue this field. Leading to a degree in Communications and Political Science, I have yet to have the opportunity to take a computer or electronics type course since grade 11. “Electronics” is a broad word that has actively become a large part of the 21st century’s society. I was unsure of what we were going to endeavour in these modules when I selected it as my first choice for week three, but thought it would be a good idea to gain some insight into what it would have to offer. There’s no better way to practice an interdisciplinary learning style in learning how to exercise the tasks demonstrated in these modules. After day 1, I am looking forward to continuing the multifaceted platform of GitHub and learning how to create circuits using the Arduino.
+-->
+I had a great first day in my Electronics for the Rest of Us module, in which I got to learn how to utilize basic functions Arduino and GitHub through the exercises through the YouTube videos posted on the Inspire 1A03 webpage. I was interested in this module because I have not taken an electronics or computer science type course since grade 11. Although I found these courses quite fascinating in the underlining codes and functions that were necessary to run programs and other electronics, for whatever reason I never really continued to pursue this field. Leading to a degree in Communications and Political Science, I have yet to have the opportunity to take a computer or electronics type course since grade 11. “Electronics” is a broad word that has actively become a large part of the 21st century’s society. I was unsure of what we were going to endeavour in these modules when I selected it as my first choice for week three, but thought it would be a good idea to gain some insight into what it would have to offer. There’s no better way to practice an interdisciplinary learning style in learning how to exercise the tasks demonstrated in these modules. After day 1, I am looking forward to continuing the multifaceted platform of GitHub and learning how to create circuits using the Arduino.
 
 You're also asked to insert a photo that represents your accomplishments on your first day. 
 - Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
@@ -30,7 +31,9 @@ Replace the elements below to insert your picture.
 <!--
 Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
 
-/* Adafruit Arduino - Lesson 3. RGB LED */ 
+/*
+Adafruit Arduino - Lesson 3. RGB LED
+*/
 
 int redPin = 11;
 int greenPin = 10;
@@ -155,7 +158,7 @@ void loop()
   }
 
 
-} 
+}
 
 
 Provide a short (~150 words) summary of your work on this circuit:
@@ -164,9 +167,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
  - The device
-This device uses a thermestor to measure the varian
-The most challenging part of this deliverable was connecting the jumper cables to the right spot on the bread board to have the thermistor read the temperature properly. At first I had the jumper cables connected to the thermoster in the same row, giving me an output tempurature of 334.9 degrees celcius when I ran the program, but after some playing around I was able to connect 
-
+This device uses a thermestor to measure the variance in air temperature that is outputted on the computer screen through circuit created with the bead board and Arduino. The most challenging part of this deliverable was connecting the jumper cables to the right spot on the bread board to have the thermistor read the temperature properly. As I am still relatively new to using an Arduino setting it up properly to ensure the circuit was connected through the proper rows created some obstacles for me. The other part that was difficult in this deliverable was using if/else/elseif statements in my code. For a while it kept giving me errors in my setColour function but then I realized that that was not necessary so deleted it. 
 ## Arduino build-off results
 <!--
 Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
