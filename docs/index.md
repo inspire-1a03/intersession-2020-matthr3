@@ -1,4 +1,3 @@
-# Ryan's First GitHub
 # Ryan Matthews - 400120481
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
