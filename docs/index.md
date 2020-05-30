@@ -362,7 +362,7 @@ Note that this video won't show when previewing the document in GitHub--it only 
 - Note that you may want to adjust the width and height parameters to make it fit well in your webpage
 -->
 
-<iframe width="789" height="444" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="789" height="444" src="https://www.youtube.com/watch?v=ikoBO_KUjNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Final reflection & summary
@@ -371,3 +371,5 @@ In ~300 words:
 - Summarize your experience in this module. What you learned, what you liked, what you found challenging.
 - Reflect upon your learning and its relevance in your life.
 -->
+
+Throughout my experience I learned that I am not all that electronically advanced, but that's okay. Not everything I am going to pick up I am going to immediately excel at but it was the process of trying to learn something new that I enjoyed in taking this module in Inspire 1A03. Prior to this course I had never hear of an Arduino or gotten to experience any other hardware device that can be inputted into my computer. As mentioned on day 1, taking a computer science course in grade 11 was all software programming that would output onto the computer. Getting to build a weather station with the Arduino is unlike anything I had done before, and there were some learning experineces to go along with it. What I learned about myself in this module is that there are so many components to everyday utilities that I do not know about. It is important for me to continue to challenge myself and expand my knowledge across multiple sectors and fields of life to attempt to gain a baseline knowledge as to how the world we live in works. Throughout my academic experience, I have gained immense knowledge as to how the social and political world functions. I never really get the oppurtunity in my learning to focus on a hardware product such as this one to find the multiple utilities that a device may have. Stepping away from lecture hall, essay writing learning and into interdiscplinary learning helped me gain the hands on experience to complete this module.
