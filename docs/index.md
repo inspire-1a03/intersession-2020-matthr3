@@ -25,14 +25,14 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
-![Ryan's Arduino Day 1](https://github.com/inspire-1a03/intersession-2020-matthr3/blob/master/docs/images/FIrstday.png "Ryan Matthews First Circuit!")
+![Ryan's Arduino Day 1](images/FIrstday.png "Ryan Matthews First Circuit!")
 
 ## Day 2: Results
 <!--
 Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
 
 --> 
-
+```
 /*
 Adafruit Arduino - Lesson 3. RGB LED
 */
@@ -161,7 +161,7 @@ void loop()
 
 
 }
-
+```
 <!--
 Provide a short (~150 words) summary of your work on this circuit:
 - How does your device work?
@@ -188,7 +188,7 @@ In ~300 words, provide a final device description and product pitch:
 Finally, record a short (30 second) video of a 'product pitch' for your device. 
 - Upload the video to Youtube, and use the sample code below to embed your video.
 -->
-
+```
 /*
 Adafruit Arduino - Lesson 3. RGB LED
 */
@@ -339,7 +339,7 @@ void loop()
 
 
 }
-
+```
 <!--
 Below is a general markdown table template. 
 You can find more information at these links: 
